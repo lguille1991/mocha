@@ -34,4 +34,6 @@ describe ('Mathematical Operations - Test Suite', function() {
         assert.equal(c, 1);
     });
 
+    it ('This is a test for Pending Test Feature');
+
 });
